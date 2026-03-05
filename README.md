@@ -25,3 +25,4 @@ Flowing → https://github.com/joaquinariasco-lab/Flowing.git
 
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=joaquinariasco-lab&show_icons=true)
 ![Stats](https://github-readme-stats.vercel.app/api?username=joaquinariasco-lab)
+![Snake animation](https://github.com/joaquinariasco-lab/joaquinariasco-lab/blob/output/github-contribution-grid-snake.svg)
