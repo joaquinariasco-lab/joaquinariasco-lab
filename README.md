@@ -22,4 +22,4 @@ Flowing → https://github.com/joaquinariasco-lab/Flowing.git
 
 - GitHub: https://github.com/joaquinariasco-lab
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquinariasco-lab&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquinariasco-lab&show_icons=true&theme=default)
