@@ -1,4 +1,4 @@
-# Hi, I'm Joaquín 👋
+# Hi, I'm Joaquin 👋
 
 AI infrastructure developer.
 
@@ -21,3 +21,5 @@ Flowing → (link to your repository)
 ## Contact
 
 - GitHub: https://github.com/YOUR_USERNAME
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquinariasco-lab&show_icons=true)
