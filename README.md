@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Joaquín 👋
 
-<!--
-**joaquinariasco-lab/joaquinariasco-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI infrastructure developer.
 
-Here are some ideas to get you started:
+## Current Focus
+- AI agent observability
+- multi-agent systems
+- LLM infrastructure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Main Project
+
+Flowing → (link to your repository)
+
+## Tech Stack
+
+- Python
+- AI systems
+- distributed systems
+- LLM tooling
+
+## Contact
+
+- GitHub: https://github.com/YOUR_USERNAME
