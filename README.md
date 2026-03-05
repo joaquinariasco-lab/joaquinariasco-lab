@@ -9,7 +9,7 @@ AI infrastructure developer.
 
 ## Main Project
 
-Flowing → (link to your repository)
+Flowing → https://github.com/joaquinariasco-lab/Flowing.git
 
 ## Tech Stack
 
@@ -20,6 +20,6 @@ Flowing → (link to your repository)
 
 ## Contact
 
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/joaquinariasco-lab
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquinariasco-lab&show_icons=true)
